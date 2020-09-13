@@ -1,0 +1,25 @@
+html {
+  overflow: hidden;
+  background: hsla(0, 0%, 0%, 1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: radial-gradient(top, circle cover, hsla(330, 90%, 15%, 1) 20%, hsla(0, 0%, 0%, 1) 80%);
+cursor:move;
+}
+
+body,
+.space {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+#space {
+  left: 0;
+  top: 0;
+  zoom: 1
+}
+
+#space span {
+  position: absolute;
+}

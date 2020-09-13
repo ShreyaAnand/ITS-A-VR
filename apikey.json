@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "opticalimagerecognition",
+  "private_key_id": "ac62656944a2c098e87ac8780f9ffb75c4bd267b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCh5zivN+EuRGkV\nhpTuUHXNmOSTVVjvRLnN6TNtP90ZMgMethInFrf1zH54WiN8SRPfaCUpLZ7i+IXm\nKcz9K+QsNkLIg7ZR1N3VG5S57qZKWqEnGJwUgWfrTAXqLSGADExpsKACbCJPL9QP\n/O8pAl6GUSIShJyv2va6oYgl4V5+6PIfvP19+0TFGprsKviBBkjYkOUrnEOMZJEg\nosHk2RZK7SKsDjE0K+qZgN+7iUW3d7OzKl/L7uvjTMhAe8/cqVgaEPyxqRHAV2ZQ\nyk5vXX7wmcQRjLMnexiW/s4rOuKdaauXWJotY70HK6u3RT2nd9YFLF9pQolPtpsv\n4KtbglYvAgMBAAECggEARPdm6RTHolrX3KiIln/Fvr/LVot7p+jBsVoOYxJaT5pD\nQ/jRAL+nu1fR49iZ1x6WDYuikMjzLsIo36Ocw5fHyaGPjzS0HGWt3VKzZwSm53N1\nxF6yVfXN26h1uIxjAdW7UyY+8uk3MD4yemEHS5PLyjGTbwn4aNzATz3x7hjzlOFe\nKhyudAaPAhvpe8ZCe2ntq35v3Inbjv1rfdogI5hEgf5t+f5HxQFZqE5AoF3oRtPB\nndy9lzET9+UizbFl2BzvPJj7Pwodsn0YKLWlX1CTZzkxVkBeOgncTLjfATxDEu+G\nR1i7LI9Hc7Ds32upTr06L3xPrJxYp9vk0pHZTVPLSQKBgQDabJeGT2enIdbtWtCR\nGZwrR9bCmEjWhVUwBVnpzXaInyFw3WlEpKb3lERcdLLVtc6dIea3nnNx1V7xSyGI\nid5S5mJ1c5nXbD3S9/a2GrPihNmo2ju1AfdBq7aPOMWM8ZhhMyfde57PIcMM8kwC\nBzG8q1ZWSbSfgiIzRwhlIg6l1QKBgQC9wXGgcM1zblz2qkCNHTmh+hJPl2i8dbls\nk2gKaPCIPXGp00zdyPpKzvNYfifVhXFd7qO31zkJ0pIIMaTRIp/2ugeuTCQvDZDc\n2L3AUlV1zGy3zwvrbUBc/4AmIcqotpY7yzmQJMjvvVUHHw4dlywX7qSW3YLz4QiT\nK2dreLS58wKBgDvvNjjNixSqTW59z+Mw0tBxevWUkdADcBeoMD7eeRsOB0AQETWb\ntJEU5xkzkGrh41rslYFnAiiHMvEk+4OayR2YSAYQfXNGKUS9c74OX7PVXmBd2apW\nasFjW8m6+0IsfPKW9eZpaG9PxVTFG6Qm0zgBD8THnr9yFu5ZHG2bxcctAoGADK3P\nRNQktjDKn2Sy2Xr5bdxCuvS399e54wpaak+musO4Q4ut2CfkqXj4g5IyYS8AazFV\n2SPVWNWsEkYW6C5zF85IUxodVNOIOWl2DFK0CSH2pbV862cqZMxhqKqbWviQQ0CK\nARqkHni9JLOrgsimFpdIghgc9uSzaPn+eAzhrocCgYEAkm9S3ms8CPI6e2VTRzG8\nrcuSxDKWy7jknfRuml7MxABBr/5rgBfPplorJDX2CaJNr1BhWKnwDipua+HlEudJ\niU3tg4pNgOO4PO5vETtn2z22dWOUL0ePQ2QjZ3pQo+FthcsioDO0MnqPLl+sHdqU\no02E/ooNBK1d9mctBn88MR0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "angad-sharma@opticalimagerecognition.iam.gserviceaccount.com",
+  "client_id": "105769713826851403618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angad-sharma%40opticalimagerecognition.iam.gserviceaccount.com"
+}
